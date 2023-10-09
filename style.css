@@ -149,7 +149,7 @@ a {
 /* quote */
 
 .quote {
-    background-color: rgb(225, 230, 231);
+    background-color: #E5E7EB;
     display: flex;
     flex-direction: column;
     justify-content: center;
